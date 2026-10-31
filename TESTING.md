@@ -1,0 +1,1 @@
+Public edition: all 22 skill selections checked for removed source labels; Transparency section absent; profile initials fallback present; full-case navigation and widths 320/390/768/1440 passed Chromium tests with no JavaScript errors. Actual profile photo was not retrieved.
